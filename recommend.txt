@@ -1,0 +1,1 @@
+Personally, for beginners I recommend Ubuntu as it is the most user friendly distro you can find out there. Package installation is easy, you won't get scared away imideately like most people. When you get comfortable with it you can start using terminal and experiment. Have fun!

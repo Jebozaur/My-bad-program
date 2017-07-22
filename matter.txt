@@ -1,0 +1,1 @@
+While the adoption on desktop computers is low, Linux-based operating systems dominate nearly every other segment of computing, from mobile devices to mainframes. As of November 2016, all but two of the world's 500 most powerful supercomputers run Linux (the other two run AIX, a proprietary Unix operating system on IBM POWER7 hardware).

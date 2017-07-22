@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1500752509 source:d:\c++\typewriter effect\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"funkcje.h"
+
+1500752739 d:\c++\typewriter effect\funkcje.h
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+
+1500753708 source:d:\c++\typewriter effect\funkcje.cpp
+	<iostream>
+	<string>
+	<time.h>
+	<cstdlib>
+	<windows.h>
+	<fstream>
+	"funkcje.h"
+
